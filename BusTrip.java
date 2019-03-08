@@ -10,9 +10,10 @@ public class BusTrip {
     static int x = 0;
 
     private static ArrayList<Integer> tripList = new ArrayList<>();
-    Random random = new Random();
+    Random random = new Random(); // qwerty jghg;egf
 
-    public BusTrip() {
+
+    public BusTrip() { //enfklhrhflkrhfk4f
     }
 
 
